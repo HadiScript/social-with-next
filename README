@@ -1,0 +1,11 @@
+please create .env and .env.local file on root folder
+
+
+.env.local
+GITHUB_CLIENT_ID="GITHUB_CLIENT_ID"
+GITHUB_CLIENT_SECRET="GITHUB_CLIENT_SECRET"
+AUTH_SECRET="AUTH_SECRET"
+
+
+.env
+DATABASE_URL="file:./dev.db"
